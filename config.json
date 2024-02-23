@@ -7,14 +7,14 @@
     "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "09974061104",
+    "PASSWORD": "Psalms23:1",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": "!",
+    "BOTNAME": "Athena AI",
+    "PREFIX": "*",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100014776301140",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
