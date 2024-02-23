@@ -21,7 +21,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "[
+    "APPSTATEPATH": "
     {
         "key": "dbln",
         "value": "%7B%2261556099951424%22%3A%22ApEg7BbA%22%2C%22100085080997050%22%3A%22uvtw85jJ%22%2C%22100094670384379%22%3A%22zLA82bl2%22%2C%22100014776301140%22%3A%22NREyCow2%22%7D",
@@ -166,7 +166,7 @@
         "creation": "2024-02-23T13:18:03.221Z",
         "lastAccessed": "2024-02-23T13:18:03.221Z"
     }
-]",
+",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
